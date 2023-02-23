@@ -1,4 +1,4 @@
 # My-Projects
-Here are some things I worked on, Some for work and some for fun
+Here are some projects I worked on
 
 Feel free to take a look and leave comments.
