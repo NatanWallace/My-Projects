@@ -3,9 +3,9 @@ Here are some projects I worked on
 
 Feel free to take a look and leave comments.
 
-List of projects:
+###List of projects:
 
-1.emissions by country data analysis.ipynb
+### 1.emissions by country data analysis.ipynb
 
 In this project I explored with Python a dataset that has CO2 Emissions by country for the years 1750 - 2022.
 
