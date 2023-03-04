@@ -19,6 +19,6 @@ This is a weather analysis of weather trends in Fort Collins,CO. The data is col
 Exploring data of weather in Fort Collins, CO and on top of mountain Longs Peak in Colorado. Looking at temperture, wind patterns, yearly precipitation and seasonly precipitation.
 Using SQL.
 
-### 5. data_analysis_chicago_arrests
+### 5. data_analysis_chicago_arrests.ipynb
 Exploring data of arrests made in Chicago, Using Python
 
