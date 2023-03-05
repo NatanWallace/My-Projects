@@ -1,0 +1,479 @@
+,State/Region,count
+0,CA,21197
+1,NY,4844
+2,CO,4403
+3,FL,3518
+4,MA,3007
+5,IL,2977
+6,TX,2216
+7,WA,1866
+8,OH,1777
+9,NJ,1739
+10,MI,1639
+11,AZ,1585
+12,PA,1561
+13,OR,1560
+14,NV,1190
+15,GA,907
+16,MD,865
+17,NC,853
+18,TN,847
+19,MN,832
+20,Ontario,811
+21,ON,772
+22,VA,757
+23,WI,708
+24,CT,521
+25,MO,465
+26,KS,465
+27,OK,400
+28,IN,362
+29,UT,314
+30,California,297
+31,British Columbia,295
+32,ME,288
+33,DC,268
+34,ID,266
+35,RI,263
+36,DE,250
+37,KY,240
+38,AL,235
+39,NH,230
+40,BC,221
+41,LA,210
+42,Alberta,194
+43,Quebec,190
+44,NE,183
+45,Niedersachsen,175
+46,mi,174
+47,Rheinland-Pfalz,158
+48,SC,151
+49,Victoria,150
+50,Cavan,148
+51,Auvergne-Rhône-Alpes,145
+52,NM,140
+53,IA,116
+54,VT,114
+55,QC,113
+56,North Rhine-Westphalia,106
+57,SP,103
+58,in,94
+59,HI,94
+60,New York,90
+61,AR,90
+62,Lancashire,89
+63,Dublin,87
+64,Zuid-Holland,84
+65,AB,71
+66,Cambs,70
+67,la,70
+68,England,69
+69,AK,68
+70,MT,67
+71,Gelderland,66
+72,WY,65
+73,me,63
+74,MS,61
+75,Colorado,60
+76,il,60
+77,"Toronto, Ontario",60
+78,VIC,57
+79,Guangdong,52
+80,Florida,52
+81,ga,51
+82,Limburg,51
+83,NSW,49
+84,Ca,49
+85,id,46
+86,Massachusetts,44
+87,Southern Finland,43
+88,Bayern,41
+89,ca,40
+90,Illinois,37
+91,PR,37
+92,Prince Edward Island,36
+93,Washington,33
+94,ZH,32
+95,WV,32
+96,Texas,30
+97,al,30
+98,RJ,30
+99,Ohio,29
+100,mn,29
+101,Calgary,29
+102,North Carolina,28
+103,SD,28
+104,New Brunswick,27
+105,QLD,26
+106,tx,24
+107,ND,24
+108,wa,24
+109,ct,24
+110,Maryland,22
+111,Arizona,21
+112,Göteborg,19
+113,Oregon,18
+114,Saskatchewan,18
+115,Nevada,18
+116,Cundinamarca,16
+117,Wisconsin,16
+118,NT,16
+119,Warwickshire,15
+120,Virginia,15
+121,Ottawa,15
+122, -,15
+123,Luzern,15
+124,Noord-Brabant,14
+125,North Holland,14
+126,fl,13
+127,Missouri,13
+128,Île-de-France,13
+129,Dubai,13
+130,pa,13
+131,South,12
+132,MB,12
+133,Georgia,12
+134,In,11
+135,Uusimaa,11
+136,Connecticut,11
+137,co,11
+138,RS,11
+139,CH,10
+140,nj,10
+141,New Mexico,10
+142,QuÃ©bec,10
+143,Utah,9
+144,New South Wales,9
+145,Minnesota,9
+146,Wiltshire,9
+147,ny,8
+148,DF,8
+149,Reggio Emilia,8
+150,NS,8
+151,Manitoba,8
+152,District of Columbia,8
+153,SA,8
+154,Pennsylvania,7
+155,md,7
+156,az,7
+157,"Toronto, Ontario, Canada",7
+158,London,7
+159,Michigan,7
+160,Tennessee,7
+161,Maharashtra,7
+162,Québec,7
+163,Al Qusais,7
+164,GB,7
+165,Telangana,7
+166,ontario,7
+167,Nova Scotia,7
+168,or,6
+169,Karnataka,6
+170,Tokyo,6
+171,HEB,6
+172,Western Cape,6
+173,Hawaii,6
+174,New Jersey,5
+175,Puerto Rico,5
+176,Nicosia,5
+177,Edinburgh,5
+178,Wa,5
+179,Rigas,5
+180,Lincolnshire,5
+181,Derby,5
+182,Isle of Man,5
+183,Gloucestershire,5
+184,Bangkok,5
+185,SG,5
+186,Santiago,5
+187,"Toronto, Ontario ",5
+188,TO,4
+189,Il,4
+190,Cork,4
+191,Matosinhos,4
+192,Shanghai,4
+193,Singapore,4
+194,dc,4
+195,TAS,4
+196,NB,4
+197,Hong Kong,4
+198,MG,4
+199,France,4
+200,british columbia,4
+201,Oklahoma,4
+202,Bavaria,4
+203,Gauteng,4
+204,Nederland,4
+205,"Ontario, Canada",4
+206,"Vancouver, British Columbia",4
+207,NL,4
+208,Denmark,4
+209,ACT,4
+210,KARNATAKA,3
+211,Surrey,3
+212,"Calgary, Alberta",3
+213,Jalisco,3
+214,BA,3
+215,108 S. Mill St,3
+216,Zug,3
+217,Uttar Pradesh,3
+218,nv,3
+219,Israel,3
+220,Berlin,3
+221,China,3
+222,HEBEI,3
+223,ma,3
+224,oh,3
+225,B.C,3
+226,CN,3
+227,Jersey,3
+228,Newcastle upon Tyne,3
+229,Please choose ...,3
+230,Worcestershire,3
+231,quebec,3
+232,"Brampton, Ontario",3
+233,South Carolina,3
+234,Chesham,3
+235,Yorkshire,3
+236,Queensland,3
+237,Schweiz,3
+238,HM NX,3
+239,New Hampshire,3
+240,Sofia City,2
+241,Mexico City,2
+242,Chennai,2
+243,Oh,2
+244,Tel Aviv,2
+245,Qld,2
+246,Ticino,2
+247,nsw,2
+248,Barcelona,2
+249,Greater London,2
+250,Delaware,2
+251,Noord-Holland,2
+252,Stockholm County,2
+253,nc,2
+254,Global,2
+255,Western Australia,2
+256,Johannesburg,2
+257,Canton of Zurich,2
+258,Tamil Nadu,2
+259,Fairfield,2
+260,Montego Bay,2
+261,Seoul Capital,2
+262,Az,2
+263,Kansas,2
+264,Central,2
+265,Ile-de-France,2
+266,Autonomous City of Buenos Aires,2
+267,Auckland,2
+268,Newfoundland and Labrador,2
+269,"Edmonton, Alberta",2
+270,"Victoria, British Columbia",2
+271,Buckinghamshire,2
+272,"Calgary, Canada",2
+273,Fujian,2
+274,Guangdong Provice,2
+275,Tyne and Wear,2
+276,Cologne Bonn,2
+277,Barnsley,2
+278,Cambridgeshire,2
+279,Santiago de Chile,2
+280,Herts,2
+281,GuangDong,2
+282,Newfoundland,2
+283,Strovolos,2
+284,Perak,1
+285,Skåne,1
+286,Hamerkaz,1
+287,Coolock,1
+288,US,1
+289,North-Rhine-Westphalia,1
+290,Tx,1
+291,Shizuoka,1
+292,Región Metropolitana,1
+293,Rivers,1
+294,Moscow Oblast,1
+295,Wellington,1
+296,Maine,1
+297,Chile,1
+298,Africa,1
+299,Lisbon,1
+300,Basel,1
+301,Melbourne,1
+302,Italy,1
+303,Beijing,1
+304,Milano,1
+305,CS,1
+306,Balvaria,1
+307,Guangdong Province,1
+308,Unknown,1
+309,Noord Holland,1
+310,Flevoland,1
+311,San Isidro,1
+312,Shenzhen,1
+313,Russia?,1
+314,Wexford,1
+315,Cayo District,1
+316,Andhra Pradesh,1
+317,Prague,1
+318,sc,1
+319,Halifax,1
+320,"Alberta, Canada",1
+321,"Winnipeg, Manitoba",1
+322,Dehli,1
+323,Labrador,1
+324,Mi,1
+325,Skopski,1
+326,Capital,1
+327,South Holland,1
+328,Zurich,1
+329,ak,1
+330,Overijssel,1
+331,Greater Bordeaux,1
+332,Columbia,1
+333,Pakistan,1
+334,ALL,1
+335,Canterbury,1
+336,"Oakville, Ontario",1
+337,"Richmond Hill, Ontario",1
+338,"Shenzhen, Guangdong",1
+339,Serbia,1
+340,Malawi,1
+341,"Whitehorse, Yukon Territory",1
+342,"Hamilton, Ontario",1
+343,Canton of Geneva,1
+344,Lisbon District,1
+345,Baden-Württemberg,1
+346,National Capital Territory of Delhi,1
+347,Pays de la Loire,1
+348,State of São Paulo,1
+349,Eastern Cape,1
+350,Santiago Province,1
+351,Salzburg,1
+352,Jerusalem,1
+353,Cusco Province,1
+354,Atlantico,1
+355,Tunis,1
+356,Salto Department,1
+357,Mecca,1
+358,Emirate of Abu Dhabi,1
+359,Marmara,1
+360,Södermanland and Uppland,1
+361,Larnaca District,1
+362,Antioquia,1
+363,Zhejiang,1
+364,"Ottawa, Ontario",1
+365,"British Columbia, Canada ",1
+366,Uppsala County,1
+367,Hanover,1
+368,Dorset,1
+369,Mahé,1
+370,Western Province,1
+371,Marlborough,1
+372,Federation of Bosnia and Herzegovina,1
+373,Florida Arizona,1
+374,N.Y,1
+375,LO,1
+376,Haryana,1
+377,Ankara,1
+378,Kuala Lumpur,1
+379,Алматинская область,1
+380,Bali,1
+381,Kerala,1
+382,Porto,1
+383,Nueva York,1
+384,Montevideo Department,1
+385,Yunnan,1
+386,Vancouver,1
+387,Inglaterra,1
+388,Hesse,1
+389,Gzira,1
+390,Pa,1
+391,Fl,1
+392,Region Metropolitana,1
+393,Wi,1
+394,Spitalfields,1
+395,Spain,1
+396,Florence,1
+397,SK,1
+398,CE,1
+399,Izmir,1
+400,Gujarat,1
+401,NCT,1
+402,Port Louis,1
+403,Cairo,1
+404,Alabama,1
+405,Pernambuco,1
+406,NW,1
+407,广东,1
+408,Rhode Island,1
+409,Santa Catarina,1
+410,Ouest,1
+411,Sao Paulo,1
+412,Mississippi,1
+413,Kyiv City,1
+414,Nebraska,1
+415,Arkansas,1
+416,Pondicherry,1
+417,Taiwan,1
+418,DAN,1
+419,Mumbai,1
+420,Tianjin,1
+421,Derbyshire,1
+422,Kyiv region,1
+423,Albania,1
+424,Austria,1
+425,Berkshire,1
+426,MP,1
+427,Ireland,1
+428,new south wales,1
+429,Stockholm,1
+430,WEST YORKSHIRE,1
+431,Coral Gables,1
+432,Community of Madrid,1
+433,West Sussex,1
+434,Vaud,1
+435,MAHARASHTRA,1
+436,Kairos Aerospace,1
+437,Va,1
+438,Port of Spain,1
+439,Valencia,1
+440,None,1
+441,Hampshire,1
+442,To Be Announced,1
+443,regiokantoren in Dordrecht en Gouda,1
+444,East Yorkshire,1
+445,Metro Manila,1
+446,Lower Saxony,1
+447,Co. Down,1
+448,Fully Remote,1
+449,Middlesex,1
+450,Wanganui-Manawatu,1
+451,Or,1
+452,Oxfordshire,1
+453,Vic,1
+454,Navarra,1
+455,1824,1
+456,La,1
+457,Ma,1
+458,Киев,1
+459,Co,1
+460,guangdong,1
+461,Herefordshire,1
+462,Walloon Region,1
+463,广东省,1
+464,Okinawa,1
+465,North West,1
+466,0,1
+467,Madrid,1
+468,Japan,1
+469,Paris,1
+470,Worldwide,1
+471,HM,1
+472,Bay City,1
+473,Louisiana,1
+474,Ciudad de México,1
+475,Sichuan,1
+476,Eastern Region,1
+477, North Holland,1

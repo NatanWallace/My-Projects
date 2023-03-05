@@ -1,0 +1,345 @@
+,State/Region,count
+0,ca,21583
+1,ny,4942
+2,co,4475
+3,fl,3584
+4,il,3078
+5,ma,3055
+6,tx,2271
+7,wa,1928
+8,mi,1821
+9,oh,1811
+10,nj,1754
+11,on,1673
+12,az,1615
+13,or,1585
+14,pa,1582
+15,nv,1211
+16,ga,970
+17,md,894
+18,nc,883
+19,mn,870
+20,tn,854
+21,va,773
+22,wi,725
+23,ct,556
+24,bc,527
+25,mo,478
+26,ks,467
+27,in,467
+28,ok,404
+29,me,352
+30,ut,323
+31,qc,313
+32,id,312
+33,la,282
+34,dc,280
+35,ab,271
+36,al,266
+37,ri,264
+38,de,252
+39,ky,240
+40,nh,233
+41,ne,184
+42,niedersachsen,175
+43,rheinland pfalz,158
+44,sc,155
+45,victoria,150
+46,nm,150
+47,cavan,148
+48,auvergne rhone alpes,145
+49,ia,116
+50,vt,114
+51,north rhine westphalia,107
+52,sp,103
+53,hi,100
+54,ar,91
+55,lancashire,89
+56,dublin,87
+57,zuid holland,84
+58,cambs,70
+59,ak,69
+60,england,69
+61,mt,67
+62,gelderland,66
+63,wy,65
+64,ms,62
+65,vic,58
+66,guangdong,55
+67,nsw,51
+68,limburg,51
+69,southern finland,43
+70,pr,42
+71,bayern,41
+72,pe,36
+73,zh,32
+74,wv,32
+75,nb,31
+76,rj,30
+77,calgary,29
+78,sd,28
+79,qld,28
+80,nd,24
+81,mb,21
+82,goteborg,19
+83,sk,19
+84,nt,16
+85,cundinamarca,16
+86,luzern,15
+87,warwickshire,15
+88,ile de france,15
+89,north holland,15
+90,ns,15
+91,ottawa,15
+92,noord brabant,14
+93,dubai,13
+94,south,12
+95,rs,11
+96,uusimaa,11
+97,qua bec,10
+98,ch,10
+99,new south wales,10
+100,wiltshire,9
+101,karnataka,9
+102,df,8
+103,maharashtra,8
+104,sa,8
+105,reggio emilia,8
+106,telangana,7
+107,london,7
+108,gb,7
+109,al qusais,7
+110,western cape,6
+111,nl,6
+112,heb,6
+113,tokyo,6
+114,nicosia,5
+115,isle of man,5
+116,edinburgh,5
+117,rigas,5
+118,gloucestershire,5
+119,derby,5
+120,lincolnshire,5
+121,santiago,5
+122,sg,5
+123,bangkok,5
+124,gauteng,4
+125,france,4
+126,act,4
+127,tas,4
+128,nederland,4
+129,mg,4
+130,cork,4
+131,to,4
+132,bavaria,4
+133,hong kong,4
+134,singapore,4
+135,matosinhos,4
+136,shanghai,4
+137,denmark,4
+138,zug,3
+139,ba,3
+140,noord holland,3
+141,jersey,3
+142,newcastle upon tyne,3
+143,hm nx,3
+144,berlin,3
+145,jalisco,3
+146,b c,3
+147,please choose,3
+148,cn,3
+149,surrey,3
+150,schweiz,3
+151,chesham,3
+152,queensland,3
+153,china,3
+154,worcestershire,3
+155,yorkshire,3
+156,hebei,3
+157,uttar pradesh,3
+158,s  mill st,3
+159,israel,3
+160,sofia city,2
+161,western australia,2
+162,canton of zurich,2
+163,fairfield,2
+164,global,2
+165,herts,2
+166,tamil nadu,2
+167,tel aviv,2
+168,cambridgeshire,2
+169,greater london,2
+170,region metropolitana,2
+171,barcelona,2
+172,montego bay,2
+173,stockholm county,2
+174,autonomous city of buenos aires,2
+175,seoul capital,2
+176,johannesburg,2
+177,ticino,2
+178,buckinghamshire,2
+179,cologne bonn,2
+180,tyne and wear,2
+181,newfoundland,2
+182,calgary  canada,2
+183,chennai,2
+184,strovolos,2
+185,auckland,2
+186,santiago de chile,2
+187,central,2
+188,mexico city,2
+189,barnsley,2
+190,guangdong provice,2
+191,fujian,2
+192,africa,1
+193,columbia,1
+194,flevoland,1
+195,pakistan,1
+196,lisbon,1
+197,balvaria,1
+198,unknown,1
+199,melbourne,1
+200,san isidro,1
+201,greater bordeaux,1
+202,russia,1
+203,chile,1
+204,zurich,1
+205,cs,1
+206,emirate of abu dhabi,1
+207,cayo district,1
+208,hamerkaz,1
+209,serbia,1
+210,shizuoka,1
+211,guangdong province,1
+212,wexford,1
+213,italy,1
+214,basel,1
+215,shenzhen  guangdong,1
+216,beijing,1
+217,canterbury,1
+218,milano,1
+219,shenzhen,1
+220,coolock,1
+221,skane,1
+222,all,1
+223,us,1
+224,south holland,1
+225,skopski,1
+226,moscow oblast,1
+227,sodermanland and uppland,1
+228,eastern cape,1
+229,andhra pradesh,1
+230,santiago province,1
+231,antioquia,1
+232,zhejiang,1
+233,larnaca district,1
+234,salzburg,1
+235,capital,1
+236,jerusalem,1
+237,cusco province,1
+238,atlantico,1
+239,marmara,1
+240,lisbon district,1
+241,tunis,1
+242,uppsala county,1
+243,state of sao paulo,1
+244,pays de la loire,1
+245,salto department,1
+246,national capital territory of delhi,1
+247,baden wurttemberg,1
+248,overijssel,1
+249,canton of geneva,1
+250,yt,1
+251,halifax,1
+252,dehli,1
+253,labrador,1
+254,prague,1
+255,mecca,1
+256,rivers,1
+257,perak,1
+258,wellington,1
+259,hanover,1
+260,walloon region,1
+261,mahe,1
+262,ce,1
+263,spain,1
+264,marlborough,1
+265,federation of bosnia and herzegovina,1
+266,lo,1
+267,haryana,1
+268,ankara,1
+269,kuala lumpur,1
+270,bali,1
+271,kerala,1
+272,western province,1
+273,porto,1
+274,montevideo department,1
+275,yunnan,1
+276,vancouver,1
+277,inglaterra,1
+278,hesse,1
+279,gzira,1
+280,florence,1
+281,mumbai,1
+282,kyiv region,1
+283,n y,1
+284,derbyshire,1
+285,tianjin,1
+286,dan,1
+287,taiwan,1
+288,nw,1
+289,izmir,1
+290,gujarat,1
+291,nct,1
+292,port louis,1
+293,cairo,1
+294,pernambuco,1
+295,santa catarina,1
+296,ouest,1
+297,sao paulo,1
+298,kyiv city,1
+299,pondicherry,1
+300,florida arizona,1
+301,spitalfields,1
+302,nueva york,1
+303,austria,1
+304,stockholm,1
+305,coral gables,1
+306,community of madrid,1
+307,west sussex,1
+308,vaud,1
+309,kairos aerospace,1
+310,berkshire,1
+311,valencia,1
+312,none,1
+313,hampshire,1
+314,to be announced,1
+315,regiokantoren in dordrecht en gouda,1
+316,east yorkshire,1
+317,metro manila,1
+318,lower saxony,1
+319,co  down,1
+320,fully remote,1
+321,middlesex,1
+322,west yorkshire,1
+323,ireland,1
+324,albania,1
+325,mp,1
+326,port of spain,1
+327,navarra,1
+328,herefordshire,1
+329,okinawa,1
+330,north west,1
+331,madrid,1
+332,japan,1
+333,paris,1
+334,worldwide,1
+335,hm,1
+336,bay city,1
+337,dorset,1
+338,ciudad de mexico,1
+339,sichuan,1
+340,eastern region,1
+341,oxfordshire,1
+342,wanganui manawatu,1
+343,malawi,1
