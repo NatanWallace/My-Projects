@@ -14,6 +14,7 @@ This is a project I did for work, our geodata of our contacts needed to be clean
 
 ### 3. weather analysis project
   3.1. Python project - This is a weather analysis of weather trends in Fort Collins,CO. The data is collected directly from NASA API. Includes a ML model for rain prediction.
+  
   3.2. SQL project - Exploring data of weather in Fort Collins, CO and on top of mountain Longs Peak in Colorado. Looking at temperture, wind patterns, yearly precipitation and 
 
 ### 4. job title feature
