@@ -16,17 +16,17 @@ The script uses the "awswrangler" library to connect to a Redshift cluster and r
 A dictionary for US states, UK countries, and Canadian provinces is provided to facilitate data cleaning. Another dictionary for countries and their continents is used for creating the Continent column. The elapsed time for each operation is printed to keep track of the script's performance.
 
 ### 2. job title feature
--Python feature - This feature was created to address the issue of having a large number of unique job titles that made it difficult to analyze job title trends and patterns. By consolidating similar job titles into broader categories, this feature makes it easier to gain insights from job title data and helps to ensure consistency in reporting. The result is a more streamlined and effective way of analyzing job title data.
+- Python feature - This feature was created to address the issue of having a large number of unique job titles that made it difficult to analyze job title trends and patterns. By consolidating similar job titles into broader categories, this feature makes it easier to gain insights from job title data and helps to ensure consistency in reporting. The result is a more streamlined and effective way of analyzing job title data.
 - SQL analysis - SQL Analysis - This analysis analyzes job titles from a the dataset that was created by the python feature. It seeks to understand the impact of these transformations on the data and gain insights into the job titles.
 
-The analysis is performed through a series of SQL views and queries that achieve the following:
+  The analysis is performed through a series of SQL views and queries that achieve the following:
 
-Create a view unique_simple_titles to show the distinct simple job titles.
-Create a view all_simple_titles to break the simple titles into separate rows for counting purposes.
-Create a view count_of_simple_titles to count the occurrences of each simple title and sort them in descending order.
-Create a view count_unique_titles to count the number of unique titles in each column, assessing the effectiveness of the transformations.
-Create a view how_many_have_a_simple_title to determine the percentage of job titles that have a simplified version.
-Create a view rows_affected_by_transformation to identify the number of rows affected by each transformation: removing punctuation, extending titles, and creating simple titles.
+  Create a view unique_simple_titles to show the distinct simple job titles.
+  Create a view all_simple_titles to break the simple titles into separate rows for counting purposes.
+  Create a view count_of_simple_titles to count the occurrences of each simple title and sort them in descending order.
+  Create a view count_unique_titles to count the number of unique titles in each column, assessing the effectiveness of the transformations.
+  Create a view how_many_have_a_simple_title to determine the percentage of job titles that have a simplified version.
+  Create a view rows_affected_by_transformation to identify the number of rows affected by each transformation: removing punctuation, extending titles, and creating simple titles.
 
 ### 3. co2 emissions project
 This Python code analyzes a dataset that provides detailed information on global fossil CO2 emissions by country until 2022. The data includes CO2 emissions from various sources such as coal, oil, gas, cement, flaring, and other industrial processes. The dataset also has a column for per capita CO2 emissions.
