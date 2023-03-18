@@ -50,6 +50,5 @@ Feel free to take a look and leave comments.
 
 ### 5. chicago arrests project
  - This Python code analyzes a dataset containing arrest records from the Chicago Police Department (CPD) between 2014 and 2023. The dataset is initially contained in a zip file, which the code extracts and loads into a pandas DataFrame. It then cleans and preprocesses the data by renaming columns, extracting the day, month, and year, and converting the date to a datetime object.
-
-  The analysis provides various insights into the data, such as the number of unique values in each column, the top 5 races in the data, and the number of arrests per day of the week. It also visualizes trends in the data using bar plots and line plots, showing the top 3 races per year, arrests by month and year, and the effect of events like the death of George Floyd and the implementation of new CPD policies on arrest records.
+ The analysis provides various insights into the data, such as the number of unique values in each column, the top 5 races in the data, and the number of arrests per day of the week. It also visualizes trends in the data using bar plots and line plots, showing the top 3 races per year, arrests by month and year, and the effect of events like the death of George Floyd and the implementation of new CPD policies on arrest records.
 
