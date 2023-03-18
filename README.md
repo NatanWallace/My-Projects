@@ -7,7 +7,7 @@ Feel free to take a look and leave comments.
 ## List of projects:
 
 ### 1. state country region feature
-    Python feature - This feature takes the STATE/REGION and COUNTRY/REGION data from HubSpot, cleans them from punctuation and wrongly imported data, and outputs a dataframe containing Record ID, cleaned STATE/REGION, cleaned COUNTRY/REGION, and a newly created Continent column based on the state and country.
+ - Python feature - This feature takes the STATE/REGION and COUNTRY/REGION data from HubSpot, cleans them from punctuation and wrongly imported data, and outputs a dataframe containing Record ID, cleaned STATE/REGION, cleaned COUNTRY/REGION, and a newly created Continent column based on the state and country.
 
     It provides two input options: a Redshift table synced from HubSpot named "hs_contacts", or an exported CSV file from HubSpot containing Record ID, STATE/REGION, and COUNTRY/REGION.
 
