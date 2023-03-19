@@ -66,7 +66,18 @@ SELECT
   (SELECT COUNT(*) FROM transformed_job_titles WHERE extended_job_title <> LOWER(job_title)) AS rows_affected_by_extending_titles,
   (SELECT COUNT(*) FROM transformed_job_titles WHERE simple_job_title NOT IN ('no simple title','no title') and simple_job_title <> LOWER(job_title) AND extended_job_title IS NOT NULL) AS rows_affected_by_making_simple_title;
 
-
+--The last one was not good for the area plot visualization so i created this view:
+create view rows_affected_by_transformation_for_area_plot as
+SELECT 
+  category, 
+  count, 
+  (SELECT COUNT(*) FROM transformed_job_titles WHERE extended_job_title IS NOT NULL) AS count_rows_with_titles
+FROM (
+  VALUES
+    ('rows_affected_by_cleaning_punc', (SELECT COUNT(*) FROM transformed_job_titles WHERE job_title_no_punc_but_with_upper <> job_title)),
+    ('rows_affected_by_extending_titles', (SELECT COUNT(*) FROM transformed_job_titles WHERE extended_job_title <> LOWER(job_title))),
+    ('rows_affected_by_making_simple_title', (SELECT COUNT(*) FROM transformed_job_titles WHERE simple_job_title NOT IN ('no simple title','no title') AND simple_job_title <> LOWER(job_title) AND extended_job_title IS NOT NULL))
+) AS t(category, count);
 
 
 
